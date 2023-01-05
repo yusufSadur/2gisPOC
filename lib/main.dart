@@ -308,8 +308,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text('Webview'),
       ),
       url:
-          'https://w4pu71mgfc.execute-api.ap-southeast-1.amazonaws.com/qa/login?lang=en',
-          // 'http://10.22.79.162:8080/Untitled-1.html',
+          // 'https://w4pu71mgfc.execute-api.ap-southeast-1.amazonaws.com/qa/login?lang=en',
+          'http://10.22.79.162:8080/Untitled-1.html',
       withZoom: false,
       withLocalStorage: true,
       hidden: false,
